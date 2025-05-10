@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TomJosephKavalam.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/TomJosephKavalam.github.io/static/js/main.8b207ab4.js",
+    "static/js/453.3e5bb6c3.chunk.js": "/TomJosephKavalam.github.io/static/js/453.3e5bb6c3.chunk.js",
+    "static/media/logo.svg": "/TomJosephKavalam.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TomJosephKavalam.github.io/index.html",
+    "main.f855e6bc.css.map": "/TomJosephKavalam.github.io/static/css/main.f855e6bc.css.map",
+    "main.8b207ab4.js.map": "/TomJosephKavalam.github.io/static/js/main.8b207ab4.js.map",
+    "453.3e5bb6c3.chunk.js.map": "/TomJosephKavalam.github.io/static/js/453.3e5bb6c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8b207ab4.js"
+  ]
+}
