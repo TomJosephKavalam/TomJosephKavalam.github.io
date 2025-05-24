@@ -1,0 +1,63 @@
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fbfd;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+/* Header */
+header {
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #e0e0e0;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-size: 2.8rem;
+  color: #2c3e50;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: 1rem;
+}
+
+/* Navigation */
+nav {
+  margin-top: 2rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0077cc;
+  margin: 0 1rem;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #005fa3;
+}
+
+/* Footer */
+footer {
+  margin-top: auto;
+  font-size: 0.9rem;
+  color: #888;
+  padding-top: 2rem;
+}
